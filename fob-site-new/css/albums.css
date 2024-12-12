@@ -1,0 +1,458 @@
+
+div {
+    text-align: center;
+    
+}
+#tttyg {
+    padding: 1em;
+    background-color: rgb(17, 87, 104, 75%);
+    border-radius: 1em;
+    float:left;
+   /* margin-left:5em;
+    margin-top:2em;*/
+}
+#futct {
+    padding: 1em;
+    background-color: rgb(169, 169, 169, 75%);
+    border-radius: 1em;
+    float:left;
+    clear:both;
+    margin-top:2em;
+    
+  /* margin-left:5em;
+    margin-top:2em;*/
+
+}
+#ioh {
+    padding: 1em;
+    background-color: rgba(40, 57, 77, 0.75);
+    border-radius: 1em;
+    float:left;
+    margin-top: 2em;
+    /* margin-left:5em;
+    margin-top:2em;*/
+}
+#fad {
+    padding: 1em;
+    background-color: rgba(177, 6, 0, 0.75);
+    border-radius: 1em;
+    float:left;
+    margin-bottom:5em;
+    margin-top:2em;
+   /* margin-left:5em;
+    margin-top:2em;*/
+}
+#p1 {
+    width:550px;
+    margin-top:1.3em;
+    float:right;
+    text-align: right;
+
+}
+#p2 {
+    width:550px;
+    float:right;
+    margin-top:-13.2em;
+    clear:both; 
+    text-align: right; 
+}
+#p3 {
+    width:550px;
+    clear:both;
+    float:right;
+    margin-top:-13.2em;
+    text-align: right;
+
+}
+#p4 {
+    float:right;
+    margin-bottom:5em;
+    margin-top:3em;
+    text-align: right;
+
+}
+.article1 {
+    margin-bottom:10em;
+}
+.section1 {
+    margin-top:10em;
+    clear:both;
+}
+#srar {
+    float:right;
+    clear:both;
+    padding: 1em;
+    background-color: rgb(165, 144, 121, 75%);
+    border-radius: 1em;
+    margin-top: 2em;
+}
+#abap {
+    float:right;
+    clear:both;
+    padding: 1em;
+    background-color: rgb(2, 38, 55, 75%);
+    border-radius: 1em;
+    margin-top: 2em;
+
+}
+#mania {
+    float:right;
+    clear:both;
+    padding: 1em;
+    background-color: rgb(161, 89, 237, 75%);
+    border-radius: 1em;
+    margin-top: 2em;
+
+}
+#smfsd {
+    float:right;
+    clear:both;
+    padding: 1em;
+    background-color: rgb(116, 86, 117, 75%);
+    border-radius: 1em;
+    margin-top: 2em;
+}
+#p5 {
+    float:left;
+    margin-top:-13.5em;
+    width:550px;
+    clear:both;
+}
+#p6 {
+    float:left;
+    margin-top:-13.5em;
+    width:550px;
+    clear:both;
+}
+#p7 {
+    float:left;
+    margin-top:-13.5em;
+    width:550px;
+    clear:both;
+}
+#p8 {
+    float:left;
+    margin-top:-13.5em;
+    width:550px;
+    clear:both;
+    margin-bottom:8em;
+}
+.title1 {
+    margin-top:1em;
+    margin-bottom:1em;
+    border-bottom: 2px solid rgb(195, 68, 206);
+
+}
+.title2 {
+    margin-top:2em;
+    border-bottom: 2px solid rgb(195, 68, 206);
+
+}
+
+/* NAV */
+
+
+footer nav {
+    clear:both;
+    background-color: rgb(242, 222, 246, 75%);
+    padding: .7em;
+    border-radius: .5em;
+    width:300px;
+    border: 2px solid rgb(195, 68, 206);
+
+}
+nav h2 {
+    text-align: center;
+}
+nav ul li {
+    list-style-type: none;
+    padding:.5em;
+}
+nav ul li a {
+    background-color: rgb(198, 91, 209);
+    border-radius: .2em;
+    font-weight: bold;
+    text-decoration: none;
+   
+
+}
+/* Links */
+#spotify a {
+    padding:.4em 80px;
+
+}
+#spotify a:hover {
+    background-color: rgb(17, 87, 104, 75%);
+    padding:.4em 79px;
+    border-radius: .2em;
+}
+#apple a {
+    padding:.4em 60.9px;
+
+}
+#apple a:hover {
+    background-color: rgb(169, 169, 169, 75%);
+    padding:.4em 59.9px;
+    border-radius: .2em;
+}
+#youtubeMu a:hover {
+    background-color: rgba(40, 57, 77, 0.75);
+    padding:.4em 50px;
+    border-radius: .2em;
+}
+#youtubeMu a {
+    padding:.4em 51px;
+
+}
+#pandora a:hover {
+    background-color: rgba(177, 6, 0, 0.75);
+    padding:.4em 74px;
+    border-radius: .2em;
+}
+#pandora a {
+    padding:.4em 75px;
+
+}
+#nav1 {
+    width:37%;
+    margin-top:5em;
+    clear:both;
+    margin-left:3.5em;
+}
+#nav2 {
+    width:37%;
+    clear:both;
+    float:right;
+    margin-top:-15.3em;
+    margin-right:3.5em;
+}
+
+#insta a {
+    padding:.4em 70px;
+
+}
+
+#insta a:hover {
+    padding:.4em 69px;
+    background-color: rgb(165, 144, 121, 75%);
+
+
+}
+#twitter a {
+    padding:.4em 81px;
+
+}
+#twitter a:hover {
+    padding:.4em 80px;
+    background-color: rgb(2, 38, 55, 75%);
+
+
+}
+#youtube a {
+    padding:.4em 76px;
+
+}
+#youtube a:hover {
+    padding:.4em 75px;
+    background-color: rgb(161, 89, 237, 75%);
+
+
+}
+#tiktok a {
+    padding:.4em 82px;
+
+}
+#tiktok a:hover {
+    padding:.4em 81px;
+    background-color: rgb(116, 86, 117, 75%);
+
+
+}
+
+footer {
+    margin-bottom:3em;
+    
+}
+
+/* singles.html */
+
+#ibw {
+    padding: 1em;
+    background-color: rgb(198, 108, 180, 75%);
+    border-radius: 1em;
+    float:left;
+    margin-bottom:3em;
+}
+#sec1 {
+    width:550px;
+    float:right;
+    margin-bottom:2em;
+    margin-top:2.5em;
+}
+#wdstf {
+    padding: 1em;
+    background-color: rgb(211, 210, 206, 75%);
+    border-radius: 1em;
+    float:right;
+    margin-top:2em;
+    margin-bottom: 3em;
+   
+}
+#sec2 {
+    width:550px;
+    float:left;
+    margin-top:1em;
+    margin-bottom:3em;
+}
+
+#champion {
+    padding: 1em;
+    background-color: rgb(3, 173, 164, 75%);
+    border-radius: 1em;
+    float:left;
+    margin-top:2em;
+    margin-bottom:3em;
+
+}
+#sec3 {
+    width:550px;
+    float:right;
+    margin-top:2em;
+    margin-bottom:3em;
+
+}
+#juice {
+    padding: 1em;
+    background-color: rgb(120, 39, 134, 75%);
+    border-radius: 1em;
+    float:right;
+    margin-top:2em;
+    margin-bottom: 3em;
+}
+#sec4 {
+    width:550px;
+    float:left;
+    margin-top:.5em;
+
+}
+#h2 {
+    border-bottom: 2px solid rgb(195, 68, 206);
+    padding-bottom:1em;
+    text-align: left;
+
+
+}
+#h2-2 {
+    margin-top:65em;
+}
+#bnd1 {
+    padding: 1em;
+    background-color: rgb(42, 74, 114, 75%);
+    border-radius: 1em;
+    float:left;
+    margin-bottom:3em;
+}
+#sec5 {
+    width:550px;
+    float:right;
+    margin-top:2.8em;
+    margin-bottom:3em;
+}
+
+#bnd2 {
+    padding: 1em;
+    background-color: rgb(173, 24, 29, 75%);
+    border-radius: 1em;
+    float:right;
+    margin-top:2em;
+    margin-bottom:4em;
+}
+#sec6 {
+    width:550px;
+    float:left;
+    margin-top:2em;
+}
+
+
+/* members.html */
+#group {
+    padding: 1em;
+    background-color: rgba(12, 70, 78, 0.75);
+    border-radius: 1em;
+    margin-top:1em;
+    margin-left: 7em;
+}
+#stump {
+    padding: 1em;
+    background-color: rgba(172, 165, 119, 0.75);
+    border-radius: 1em;
+    float:left;
+    margin-top:3em;
+    margin-left:7em;
+}
+#mem1 {
+    width:350px;
+    float:left;
+    margin-top:22em;
+    margin-left: -19em;
+}
+#pete {
+    padding: 1em;
+    background-color: rgba(214, 141, 45, 0.75);
+    border-radius: 1em;
+    float:right;
+    margin-top:4em;
+    margin-right:5em;
+
+}
+#mem2 {
+    width:350px;
+    float:right;
+    margin-top:3.5em;
+    margin-right:3.5em;
+}
+#hurley {
+    padding: 1em;
+    background-color: rgba(212, 197, 79, 0.75);
+    border-radius: 1em;
+    float:left;
+    margin-top:2em;
+    margin-left:6em;
+}
+#mem3 {
+    width:350px;
+    float:left;
+    margin-top:21em;
+    margin-left:-20em;
+
+}
+#joe {
+    padding: 1em;
+    background-color: rgba(30, 41, 43, 0.75);
+    border-radius: 1em;
+    float:right;
+    margin-top:1.8em;
+     margin-right:6em;
+}
+#mem4 {
+    width:350px;
+    float:right;
+    margin-top:1.5em;
+    margin-right:3.5em;
+    margin-bottom:3em;
+}
+
+/* TABLE */
+#review {
+    margin-top:71em;
+}
+fieldset {
+    width:550px;
+    padding:2em;
+    margin:0 9em;
+    border:2px solid rgb(195, 68, 206);
+    background-color: rgb(242, 222, 246, 75%);
+}
+#submit {
+    margin-left:18em;
+}
